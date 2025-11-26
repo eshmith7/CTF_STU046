@@ -23,7 +23,7 @@ Hi, this is my submission for the CTF challenge.
 
 ## Running the code
 
-I put everything in `solver.py`. You can run it like this:
+I put everything in `solver_final.py`. You can run it like this:
 
 ```
 python3 solver.py
