@@ -26,7 +26,7 @@ Hi, this is my submission for the CTF challenge.
 I put everything in `solver_final.py`. You can run it like this:
 
 ```
-python3 solver.py
+python3 solver_final.py
 ```
 
 It will print the flags and save them to a text file.
